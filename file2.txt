@@ -1,1 +1,2 @@
 making some changes
+developer two made changes to file2.txt for some feature
