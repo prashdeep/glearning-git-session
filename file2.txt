@@ -1,2 +1,3 @@
 making some changes
 developer two made changes to file2.txt for some feature
+developer one made changes to this file for a feature
